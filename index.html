@@ -1,9 +1,23 @@
-<h1>Posts</h1>
+---
+layout: default
+title: Ray McDermott
+---
 
-<h3>Defining principle</h3>
+<div id="home">
+    <h1>Blog Posts</h1>
+    <ul class="posts">
+        {% for post in site.posts %}
+        <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+    </ul>
 
-<p>
-After seeing, what for me and my colleagues was, a seminal video from Brett Victor I have been inspired to consider what is a suitable principle to base my future software architecture and development choices around
-</p>
+    <h1>Interviews, Talks, Etc</h1>
+    <ul class="posts">
+        <li><span>02 Dec 2011</span> &raquo; <a href="http://vimeo.com/35640883">Video: Northern Lights Conference - Leveling Up</a></li>
+    </ul>
 
-
+    <h1>Prominent Open Source Projects</h1>
+    <ul class="posts">
+        <li><a href="https://github.com/raymcdermott/DocumentProcessing/">DocumentProcessing:</a>Fun with node, redis and socket.io</li>
+    </ul>
+</div>
