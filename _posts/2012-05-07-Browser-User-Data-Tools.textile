@@ -1,0 +1,10 @@
+---
+layout: post
+title: Browser tools to manage how your data is used
+---
+
+h1. {{ page.title }}
+
+p(meta). 07 May 2012 - Brussels
+
+Background: browser companies and web sites have an uncomfortable relationship.  Browsers are owned by Microsoft, Google. Apple and Mozilla (who are primarily funded by Google)
