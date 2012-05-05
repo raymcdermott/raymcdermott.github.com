@@ -10,3 +10,7 @@ p(meta). 05 May 2012 - Brussels
 After watching an "inspiring talk from Brett Victor":http://vimeo.com/36579366 I have been inspired to find a principal on which to base my future architecture and development.
 
 It is quite simple: the customer owns his data.  All of the time.
+
+I find good examples in "Dropbox":www.dropbox.com and "iCloud":icloud.apple.com
+
+I find bad examples in "Facebook":www.facebook.com, "Google+":plus.google.com and "Twitter":www.twitter.com
