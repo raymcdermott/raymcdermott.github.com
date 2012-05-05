@@ -31,4 +31,4 @@ I find bad examples in "Facebook":www.facebook.com, "Google+":plus.google.com an
 
 I find egregious examples in "Google's treatment of Safari usershttp://www.guardian.co.uk/technology/2012/feb/17/google-admits-tracking-safari-users" and "Carrier IQ":http://www.carrieriq.com
 
-I have done a fair amount of thinking about this and I will explain and advocate more aspects of my thinking over the coming months.
+I have done a fair amount of thinking about this and I will explain and advocate more aspects of my thinking over the coming months.  I will also blog about the basic tools that we should all be using to take this forward.  Further I will be proposing radical ways that we can invert control away from service providers back to users.
