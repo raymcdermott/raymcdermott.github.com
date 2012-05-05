@@ -7,4 +7,10 @@ h1. {{ page.title }}
 
 p(meta). 07 May 2012 - Brussels
 
-Background: browser companies and web sites have an uncomfortable relationship.  Browsers are owned by Microsoft, Google. Apple and Mozilla (who are primarily funded by Google)
+Background: there is a tension between users, browser makers and web site owners.  Users have data.  Web sites want that data. Users may be happy to provide it and not just by submitting it in the form of orders or seaches but also in their patterns of usage.  Web sites want to distinguish successful items in their services from less successful and adjust accordingly.  Users are aware that the web sites must store data about their orders so that they can be processed and delivered.  The other data that they provide to arrive at that order is incidental - just like the route around a supermarket.
+
+Browsers are obviously used to browse the web and thus mediate that relationship. They have been assumed until recently to be neutral onlookers.
+
+But browser companies and web sites have an uncomfortable relationship.  Browsers are owned by Microsoft, Google. Apple and Mozilla (who are primarily funded by Google). Google and Microsoft both earn money via online ads to greater and (much) lesser extent respectively.  Apple and Mozilla on the other hand do not drive revenue through ads.
+
+So let's see what data diffenet browsers collect and what we can do to manage it.  I will point you to other, more detailed resources for the howto parts for each browser.
