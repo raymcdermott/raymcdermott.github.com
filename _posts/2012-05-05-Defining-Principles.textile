@@ -29,6 +29,8 @@ Many companies have went by the way side or been gobbled up by companies that we
 
 One of the strongest motivations to use cloud services is that they make data easy to share data.  All services must have the ability for us to send messages privately or publicly.
 
+** Here are a few simple examples to demonstrate this reasoning:
+
 - Good examples are "Dropbox":www.dropbox.com, "Github":github.com and "iCloud":icloud.apple.com.
 
 - Reasonable examples are "Twitter":www.twitter.com and "LinkedIn":linkedin.com
