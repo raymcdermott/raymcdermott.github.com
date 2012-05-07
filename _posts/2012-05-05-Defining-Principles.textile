@@ -31,13 +31,13 @@ One of the strongest motivations to use cloud services is that they make data ea
 
 The principle of data ownership is sufficiently general to apply in many technology fields but cloud services today are forcing us to address these issues like never before.
 
-Good examples are "Dropbox":www.dropbox.com, "Github":github.com and "iCloud":icloud.apple.com.
+- Good examples are "Dropbox":www.dropbox.com, "Github":github.com and "iCloud":icloud.apple.com.
 
-Reasonable examples are "Twitter":www.twitter.com and "LinkedIn":linkedin.com
+- Reasonable examples are "Twitter":www.twitter.com and "LinkedIn":linkedin.com
 
-Bad examples are "Facebook":www.facebook.com, "Google+":plus.google.com and "Twitter":www.twitter.com
+- Bad examples are "Facebook":www.facebook.com, "Google+":plus.google.com and "Twitter":www.twitter.com
 
-Egregious examples are "Google's treatment of Safari usershttp://www.guardian.co.uk/technology/2012/feb/17/google-admits-tracking-safari-users" and "Carrier IQ":http://www.carrieriq.com
+- Egregious examples are "Google's treatment of Safari users":http://www.guardian.co.uk/technology/2012/feb/17/google-admits-tracking-safari-users and "Carrier IQ":http://www.carrieriq.com
 
 It is important for me to be clear about what is at stake in my personal and professional life: I could never knowingly work for a company that took data from people without their explicit consent. Nor could I work for a company that would not give up all data to it's users on request.
 
