@@ -11,24 +11,34 @@ After watching an "inspiring talk from Brett Victor":http://vimeo.com/36579366 I
 
 It is quite simple: the customer owns his data.  All of the time.
 
-Ownership is important to me for several reasons all of which are ultimately related.  
+Ownership is important to me for several reasons.
 
-First that we cannot trust governments or corporations to do the right thing with our data.  Examples of repressive regimes are so commonplace in history and our world today that it seems facile to enumerate them.  Companies likewise will either claim or presume to do no evil but their motivataions are to generate profits and this will often be in conflict with the privacy of the individual.  Many companies, including IBM, CICSO and Microsoft operate in China and collaborate with the regime to provide information about individual searches and web site visits.  I am asolutely not a conspiracy theorist, these are known facts.
+** First: we cannot trust governments or corporations to do the right thing with our data.
 
-Secondly, I challenge the notion that we knowingly exchange our data for free services.  Whilst some of us may make this logical leap I know that this degree of understanding is not universal. I just have to look to my own children to realize that they think nothing of obtaining search for free, especially when searches lead them to hacked game sites that they can play for free.  They have no idea that they are swapping anything.  From their perspective, and I want to say the majority but even without hard evidence we can surely agree that at least to a significant number of other users, the relationship is completely asymmetric: they get something for nothing.  Most savvy web users are aware that a free service means that the data that they provide, both directly and indirectly, is being processed by the service provider and being sold on to third parties.
+Examples of repressive regimes are so commonplace in history and our world today that it seems facile to enumerate them.  Companies likewise will either claim or presume to do no evil but their motivations are to generate profits and this will often be in conflict with the privacy of the individual.  Many companies, including IBM, CISCO and Microsoft operate in China and collaborate with the regime.  I am asolutely not a conspiracy theorist, these are known facts.
 
-Nth is that we should have complete portability for our data.
+** Second: I challenge the notion that we knowingly exchange our data for free services.
 
-Nth is that we should have control over how our data is shared.
+Whilst some of us may make this logical leap I know that this degree of understanding is not universal. I just have to look to my own children to realize that they think nothing of obtaining search for free, especially when searches lead them to hacked game sites that they can play for free.  They have no idea that they are swapping anything.  From their perspective, and I want to say the majority but even without hard evidence we can surely agree that at least to a significant number of other users, the relationship is completely asymmetric: they get something for nothing.  Most savvy web users are aware that a free service means that the data that they provide, both directly and indirectly, is being processed by the service provider and being sold on to third parties.
 
-Nth is that we should have the ability to edit and remove data from public spheres.
+** Third: is that we need complete portability for our data.
 
-The principle is sufficiently general to apply in many technology fields but cloud services today are forcing us to address these issues like never before.  It is important for me to be clear about what is at stake in my personal and professional life: I could never work for a company that took data from people without their explicit consent. Nor could I work for a company that would not give up all data to it's users on request.
+Many companies have went by the way side or been gobbled up by companies that we may not like over the last ten years and we have reasonable expectations that this will continue into the foreseeeable future.  If we own our data we can move it on to another or better service.  This is especially true for things like photos and videos which many of us consider particularly personal.
 
-I find good examples in "Dropbox":www.dropbox.com and "iCloud":icloud.apple.com
+** Fourth: is that we should have control over how our data is shared.
 
-I find bad examples in "Facebook":www.facebook.com, "Google+":plus.google.com and "Twitter":www.twitter.com
+One of the strongest motivations to use cloud services is that they make data easy to share data.  All services must have the ability for us to send messages privately or publicly.
 
-I find egregious examples in "Google's treatment of Safari usershttp://www.guardian.co.uk/technology/2012/feb/17/google-admits-tracking-safari-users" and "Carrier IQ":http://www.carrieriq.com
+The principle of data ownership is sufficiently general to apply in many technology fields but cloud services today are forcing us to address these issues like never before.
+
+Good examples are "Dropbox":www.dropbox.com, "Github":github.com and "iCloud":icloud.apple.com.
+
+Reasonable examples are "Twitter":www.twitter.com and "LinkedIn":linkedin.com
+
+Bad examples are "Facebook":www.facebook.com, "Google+":plus.google.com and "Twitter":www.twitter.com
+
+Egregious examples are "Google's treatment of Safari usershttp://www.guardian.co.uk/technology/2012/feb/17/google-admits-tracking-safari-users" and "Carrier IQ":http://www.carrieriq.com
+
+It is important for me to be clear about what is at stake in my personal and professional life: I could never knowingly work for a company that took data from people without their explicit consent. Nor could I work for a company that would not give up all data to it's users on request.
 
 I have done a fair amount of thinking about this and I will explain and advocate more aspects of my thinking over the coming months.  I will also blog about the basic tools that we should all be using to take this forward.  Further I will be proposing radical ways that we can invert control away from service providers back to users.
