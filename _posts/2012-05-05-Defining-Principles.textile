@@ -11,7 +11,7 @@ After watching an "inspiring talk from Brett Victor":http://vimeo.com/36579366 I
 
 It is quite simple: the customer owns his data.  All of the time.
 
-Ownership is important to me for several reasons.  The principle of data ownership is sufficiently general to apply in many technology fields but cloud services today are forcing us to address these issues like never before.
+At the risk of being overly earnest, ownership is important to me.  The principle of data ownership is sufficiently general to apply in many technology fields but cloud services today are forcing us to address these issues like never before.  The most significant reasons for me are:
 
 ** First: we cannot trust governments or corporations to do the right thing with our data.
 
@@ -39,6 +39,4 @@ One of the strongest motivations to use cloud services is that they make data ea
 
 - Egregious examples are "Google's treatment of Safari users":http://www.guardian.co.uk/technology/2012/feb/17/google-admits-tracking-safari-users and "Carrier IQ":http://www.carrieriq.com
 
-It is important for me to be clear about what is at stake in my personal and professional life: I could never knowingly work for a company that took data from people without their explicit consent. Nor could I work for a company that would not give up all data to it's users on request.
-
-I have done a fair amount of thinking about this and I will explain and advocate more aspects of my thinking over the coming months.  I will also blog about the basic tools that we should all be using to take this forward.  Further I will be proposing radical ways that we can invert control away from service providers back to users.
+I have done a fair bit of thinking about this and I will explain and advocate more aspects of my thinking over the coming months.  I will also blog about the basic tools that we should all be using to take this forward.  Further I will be proposing radical ways that we can invert control away from service providers back to users.
