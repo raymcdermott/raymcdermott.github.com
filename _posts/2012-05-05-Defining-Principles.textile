@@ -39,4 +39,4 @@ One of the strongest motivations to use cloud services is that they make data ea
 
 - Egregious examples are "Google's treatment of Safari users":http://www.guardian.co.uk/technology/2012/feb/17/google-admits-tracking-safari-users and "Carrier IQ":http://www.carrieriq.com
 
-I have done a fair bit of thinking about this and I will explain and advocate more aspects of my thinking over the coming months.  I will also blog about the basic tools that we should all be using to take this forward.  Further I will be proposing radical ways that we can invert control away from service providers back to users.
+I have done a fair bit of thinking about this and I will explain and advocate more aspects of my thinking over the coming months.  I will also blog about the basic tools that we should all be using to take this forward.
