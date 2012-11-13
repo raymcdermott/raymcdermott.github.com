@@ -7,7 +7,7 @@ h1. {{ page.title }}
 
 p(meta). 13 Nov 2012 - Brussels
 
-What is the job done by the cloud? I see several answers around the web including
+What is the "job to be done":http://hbswk.hbs.edu/item/5170.html by the cloud? I see several answers around the web including
 - making life easier for developers
 - to reduce companies' IS departments focus on IT infrastructure
 - eliminating the messy software patchwork in companies' portfolio
