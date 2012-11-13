@@ -1,0 +1,52 @@
+---
+layout: post
+title: Cloud - Job To Be Done
+---
+
+h1. {{ page.title }}
+
+p(meta). 13 Nov 2012 - Brussels
+
+What is the job done by the cloud? I see several answers around the web including
+- making life easier for developers
+- to reduce companies' IS departments focus on IT infrastructure
+- eliminating the messy software patchwork in companies' portfolio
+
+But these responses seem to be getting ahead of the problem. I'm confident that Amazon, Google and Facebook did not make clouds for any of these reasons. The reason why they made the cloud was to serve a global audience. And that is the job to be done.
+
+Cloud companies that do not execute on that job are doing something else. They will remain successful but marginal players - like salesforce.com. They have made a virtue from software as a service but they are still strongly linked to a companies' other systems. Or at least that's what would characterise a successful implementation.
+
+So getting back to the job to be done, why did obtaining access to a global audience create the cloud category? Simple maths of course - those guys had invested huge sums in automation to make their own business scale. Such investments would never be countenanced in traditional companies.
+
+The result of all this investment was a platform that demonstrated a huge gap between what they could offer developers and companies and what most companies are realistically willing to build for themselves. And where there is a gap there are profits.
+
+Which is why Microsoft recently entered the cloud business with Azure. They started with infrastructure and have quickly moved up to platform. All of the key players now offer platform as a service for companies to enjoy the benefits of their investments.
+
+So these cloud companies are selling scale and convenience but that's not the job to be done.
+
+Of Microsoft, Google, Amazon and Facebook only the last of these can offer something no other company can: access to a global audience for which they built their cloud infrastructure. It is galling perhaps but making a Facebook app is the only viable option for global brands to access that global audience. Other aggressive social efforts like twitter and google+ trail Facebook by miles and light years respectively. No other company can claim to come close to their level of subscriptions.
+
+So the others can reach a global audience but cannot share that access. They have a platform that is proven to scale and they are willing to share the love, for a price.
+
+And that's all well and good if one believes that the cloud vs business capability gap is here to stay. I am convinced that the gap is both reducing and will soon be eliminated for all practical purposes. What do you need to scale?
+- elastic compute resources (scale)
+- provisioning and self-service facilities (convenience)
+- fast networks with carrier grade connectivity (bandwidth)
+
+It is possible to buy sufficient CPU capacity from commodity hardware suppliers that begs the question why rent what you can buy for less. The bean counters can argue over whether its appropriate use of capital but its completely feasible to obtain what is, for all intents and purposes, infinite compute power.
+
+Private cloud companies are queuing around the block to provide all of the software and services needed to virtualise that hardware and layer the management and self service over the top. They have taken the cloud's special sauce and turned it into open source. Even VMWare.
+
+Bandwidth remains an impedance in Europe but not so the US. So as usual we will see their large corporations go faster, earlier.
+
+The single most persuasive argument for large scale cloud adoption is to allow corporate management to reboot IS are at least significant parts of it.
+
+Whilst I'm all for integrating with companies that can add value from the cloud I don't advise migrating business up there wholesale. The gap will only exist for derelicts.
+
+Public cloud platform providers will always want to fight commoditisation.  Microsoft has been successfully embracing and extending for twenty odd years and it's not about to stop.  Nor are the others so I'm not (just) picking on the school bully. And that lock in is worse than an IBM mainframe - at least you owned the mainframe!
+
+Investment in the creation of a solid, simple platform will be a key factor influencing whether the IT department can save it's skin.
+
+But before we finish, what do the public cloud providers not have that companies do? Access to the companies employees.  This is a major next step in making local IS successful and opening a gap in the other direction.  Users are scattered all over the cloud and this is not convenient. Again, IT shops can and must act fast to make life convenient for their users because managing those credentials holds the ultimate ownership of the company assets.
+
+So the cloud as you see it right now might just turn out like that extra, future-proofing feature your over enthusiastic analyst wants you to add - YAGNI.
