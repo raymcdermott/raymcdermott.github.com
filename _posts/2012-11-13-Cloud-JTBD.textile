@@ -26,12 +26,14 @@ So these cloud companies are selling scale and convenience but that's not the jo
 
 Of Microsoft, Google, Amazon and Facebook only the last of these can offer something no other company can: access to a global audience for which they built their cloud infrastructure. It is galling perhaps but making a Facebook app is the only viable option for global brands to access that global audience. Other aggressive social efforts like twitter and google+ trail Facebook by miles and light years respectively. No other company can claim to come close to their level of subscriptions.
 
-So the others can reach a global audience but cannot share that access. They have a platform that is proven to scale and they are willing to share the love, for a price.
+So the others can reach a global audience but cannot share that access. They have a platform that is proven to scale and they are willing to share the love, for a price.  Which is an attractive though less powerful proposition.
 
-And that's all well and good if one believes that the cloud vs business capability gap is here to stay. I am convinced that the gap is both reducing and will soon be eliminated for all practical purposes. What do you need to scale?
-- elastic compute resources (scale)
-- provisioning and self-service facilities (convenience)
-- fast networks with carrier grade connectivity (bandwidth)
+And that's all well and good if one believes that the cloud vs business capability gap is here to stay. I am convinced that the gap is both reducing and will soon be eliminated for all practical purposes.
+
+So, what do you need to scale?
+- elastic compute resources (job to be done: ensure scale to meet unpredictable demands)
+- provisioning and self-service facilities (job to be done: provide developer and ultimately user convenience)
+- fast networks with carrier grade connectivity (job to be done: provide bandwidth needed to meet unpredictable demands)
 
 It is possible to buy sufficient CPU capacity from commodity hardware suppliers that begs the question why rent what you can buy for less. The bean counters can argue over whether its appropriate use of capital but its completely feasible to obtain what is, for all intents and purposes, infinite compute power.
 
@@ -39,9 +41,9 @@ Private cloud companies are queuing around the block to provide all of the softw
 
 Bandwidth remains an impedance in Europe but not so the US. So as usual we will see their large corporations go faster, earlier.
 
-The single most persuasive argument for large scale cloud adoption is to allow corporate management to reboot IS are at least significant parts of it.
+The single most persuasive argument for large scale cloud adoption is to allow corporate management to reboot IS are at least significant parts of it.  And I share that temptation.
 
-Whilst I'm all for integrating with companies that can add value from the cloud I don't advise migrating business up there wholesale. The gap will only exist for derelicts.
+Whilst I'm all for integrating with companies that can add value from the cloud I don't advise migrating business up there wholesale. Within five years the gap will only exist for derelicts.
 
 Public cloud platform providers will always want to fight commoditisation.  Microsoft has been successfully embracing and extending for twenty odd years and it's not about to stop.  Nor are the others so I'm not (just) picking on the school bully. And that lock in is worse than an IBM mainframe - at least you owned the mainframe!
 
