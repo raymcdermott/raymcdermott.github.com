@@ -1,0 +1,12 @@
+---
+layout: post
+title: Browser tools - Firefox
+---
+
+h1. {{ page.title }}
+
+p(meta). 13 Nov 2012 - Brussels
+
+Mozilla - the parent organisation for Firefox - are working on "Persona":https://login.persona.org to use the browser as a passport on the Internet.
+
+Please go there now and sign up.
