@@ -13,4 +13,6 @@ Browsers are obviously used to browse the web and thus mediate that relationship
 
 But browser companies and web sites have an uncomfortable relationship.  Browsers are owned by Microsoft, Google. Apple and Mozilla (who are primarily funded by Google). Google and Microsoft both earn money via online ads to greater and (much) lesser extent respectively.  Apple and Mozilla on the other hand do not drive revenue through ads.
 
-So let's see what data diffenet browsers collect and what we can do to manage it.  I will point you to other, more detailed resources for the howto parts for each browser.
+So let's see what data different browsers collect and what we can do to manage it.  I will point you to other, more detailed resources for the howto parts for each browser.
+
+*Update:* Google have finally added 'Do Not Track' to its browsers.  It might come to nothing but theoretically this should prevent tracking by ad companies.
