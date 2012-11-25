@@ -1,0 +1,44 @@
+---
+layout: post
+title: Why did the Romans kill Clojure?
+---
+
+h1. {{ page.title }}
+
+p(meta). 21 Nov 2012 - Danger Zone
+
+*So the first question is just why _did_ the Romans kill Jesus?*
+
+We can get all colourful but, since it's all pretty much fantasy, we can cut to the chase: he and his followers were considered a threat to stability by the Romans. By stability, read ability to keep collecting tax.
+
+So why was he a threat? Because he had magic. He had his multiplying fishes and loaves; there was the endless wine that started it all off (good work there dude), curing blindness and bringing Lazarus back from the dead. Pretty sweet. Then he finished it off by resurrecting himself and floating off into the great blue yonder.
+
+Although I jest at these feats there are still enough people around the world who have faith in these antics. Magic is not enough though. Even amongst his followers there was one Doubting Thomas. And, although he was turned around, there are many of us out there who cannot jump over the crevice of faith.
+
+Why? Mainly because I don't believe those miracles happened. Even though I cannot explain them, the burden of proof is on the believers to prove these outlandish stories rather than expecting me to take them on face value. And so far they have failed.
+
+There is still plenty of magic around, innit Derren Brown. We are all so pleased that they have found the Higgs Boson. But there are only around the number of Jesus' disciples that can really do the math.  The rest of us have to take it on faith.  There are lots of symbols and shiny machinery which helps.
+
+But the Higgs unlocks they key to why the universe has mass rather than prove that we should all attend a Mass.
+
+So power lies in persuading people to give you money and authority. And the Romans feared they would lose those things.
+
+*So can we get to Clojure now?*
+
+Yeah, OK. But first, the Jesus story is, like any and all other religions, an example of how one group wants to dominate thought and limit choices.
+
+And, clunking down into computing, we crash straight into how this is the same for programming languages. The inventors and proponents are not as usually also the theistic zealots (is Larry Wall the only exception?).
+
+But in a small way, in our small space they want to dominate and define choices. And Rich Hickey's hair says the rest.
+
+So the question naturally arises - who are the Romans in this case?
+
+In the story of Jesus the drama centered around Pontius Pilate, the Roman administrator who, however reluctantly, ordered his death.
+
+Lest we forget, he was goaded by jewish leaders who did not like Jesus' claim to the king of the jews. Pilate himself famously washed his hands of the crucifixion and blamed the jewish leaders and the crowd.
+
+Almost every technology decision goes along similar lines. Management typically take decisions reluctantly and they are usually forced by events and powerful interest groups. In fairness I have rarely seen a full-blooded crucifixion.
+
+
+
+
