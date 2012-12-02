@@ -55,16 +55,23 @@ Lisps in general seems magical.  When people see that "(* 1 2 3 4)" equals 24 it
 
 What the hell is going on here? The idea of using data as code is the first shock. The first element of any list is the function and the rest are its fodder.
 
-(println "World" (print "Hello ")) is a fun (ahem) example showing how nesting works. Yes it's a mindfuck but it results in a lot of power once you swallow the red pill.
+(println "World" (print "Hello ")) is a fun (ahem) example showing how nested function calls works. Yes it's a mindfuck but it results in a lot of power once you swallow the red pill.
 
-But these magical aspects and strangeness bring envy and fear from non-believers. The fact that The Conj increased in size and still sold out is worrying for some.
+But these magical aspects and strangeness bring envy and fear from non-believers. But the disciples are strong - the Conj sold out quick style.
 
 *OK, so now back to those Romans - are they the operators?*
 
-No - those guys don't care about languages, they are like The Bay City Rollers, strictly platform.
+No - those guys don't care about languages. And they have way too much work to be bothered by that - in fact they are totally overloaded. Ahem.
 
-It's more likely to be developers who kill Clojure.  It's claim to be king of the JVM languages will be used against it.  Surely by Scala develeopers, who have homoconicity envy.
+But I'm gonna spoil it now and say that Clojure won't be killed like Jesus. In fact the idea that there will be just one language is as crazy as there being one flower.
 
-Like most Romans, the Java developers just have no idea what Clojure is.
+So, why do we do this? Why do we think that there must be a next big COBOL / C / Java thing?
 
-FWIW I learned a sprinkling of Latin for my son recently and was struck by the flexibility of the language so maybe it wouldn't have been that much of a reach.  If Clojure could attain the penetration and influence of Latin it would surely be the king of all computer languages.
+Just like religion, it's mostly born out of fear. One of the paradoxical attractions of God is the "certainty" of his existence *and his love* comforts his followers.
+
+Likewise the certainty of some 'winner' plays well in large companies where they need to maintain programmes for 10 years or more. And it's very likely that Java will be here in 10 years. It's stewardship by Oracle gives succour to many CIOs.
+
+
+
+
+
