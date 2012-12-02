@@ -41,9 +41,7 @@ And so to the point: Clojure. Magic. Persecution.
 
 When Rich Hickey said he could store more than 5 thousand loaves and or fishes in persistent collections with a constant Big O cost it seemed like a miracle. In fairness, he revealed that it was due to the wonders of structural sharing. And unlike the Higgs, most folks won't have to take that on faith.
 
-In fairness, Lisps in general seems magical.  When I first saw that "(* 1 2 3 4)" equals 24 it was a bit of a shock to the system.
-
-What the hell is going on here? The idea of using data as code is the first shock. The first element of any list is the function and the rest are its fodder.
+Lisps in general seems magical.  When I saw on the introduction to Scheme that "(* 1 2 3 4) = 24" it was a shock to the system. What the hell is going on here? The idea of using data as code is the first shock. The first element of any list is the function and the rest are its fodder.
 
 (println "World" (print "Hello ")) is a fun (ahem) example showing how nested function calls works. Yes it's a mindfuck but it results in a lot of power once you swallow the red pill.
 
