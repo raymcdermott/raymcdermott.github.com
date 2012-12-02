@@ -57,7 +57,7 @@ So, why do we do this? Why do we think that there must be a next big COBOL / C /
 
 Likewise the certainty of some 'winner' plays well in large companies where they need to maintain programmes for 10 years or more. And it's very likely that Java will be here in 10 years. It's stewardship by Oracle gives succour to many CIOs.
 
-So just like all religions * we have:
+So just like all religions* we have:
 
 priests - enterprise standards groups
 
@@ -73,7 +73,7 @@ original and best disciples - core lib developers
 
 God(s) - language inventor(s)
 
-* This is Christianity but the others are all organized in the same pyramid of power. Buddhism is non-theistic so therefore not count as a religion for these purposes.  It is the equivalent of design patterns.
+*This is Christianity but the others are all organized in the same pyramid of power. Buddhism is non-theistic so therefore not count as a religion for these purposes.  It is the equivalent of design patterns.
 
 *So this is really a rant about religions?*
 
