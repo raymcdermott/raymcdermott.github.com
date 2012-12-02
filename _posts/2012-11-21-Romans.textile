@@ -13,63 +13,89 @@ We can get all colourful but, since it's all pretty much fantasy, we can cut to 
 
 So why was he a threat? Because he had magic. He had his multiplying fishes and loaves; there was the endless wine that started it all off (good work there dude), curing blindness and bringing Lazarus back from the dead. Pretty sweet. Then he finished it off by resurrecting himself and floating off into the great blue yonder.
 
-Although I jest at these feats there are still enough people around the world who have faith in these antics. Magic is not enough though. Even amongst his followers there was one Doubting Thomas. And, although he was turned around, there are many of us out there who cannot jump over the crevice of faith.
+Although I jest at these feats there are still enough people around the world who have faith in these antics. Magic is not enough though. Even amongst his followers there was one Doubting Thomas. And, although he was turned around, there are many of us out here who will not jump over the gaping crevice of _that_ faith.
 
-Why? Mainly because I don't believe those miracles happened. Even though I cannot explain them, the burden of proof is on the believers to prove these outlandish stories rather than expecting me to take them on face value. And so far they have failed.
+But there is still plenty of faith around. We are all so pleased that they have found the Higgs Boson. But there are only around the number of Jesus' disciples that can really do the math.  The rest of us have to take it on faith.  There are lots of symbols and shiny machinery which helps. The Higgs unlocks they key to why the universe has mass rather than prove that we should all attend a Mass.
 
-There is still plenty of magic around, innit Derren Brown. We are all so pleased that they have found the Higgs Boson. But there are only around the number of Jesus' disciples that can really do the math.  The rest of us have to take it on faith.  There are lots of symbols and shiny machinery which helps.
-
-But the Higgs unlocks they key to why the universe has mass rather than prove that we should all attend a Mass.
-
-So power lies in persuading people to give you money and authority. And the Romans feared they would lose those things.
+So back to the Romans - power lies in persuading people to give you money and authority. And the Romans feared they would lose those things.
 
 *So can we get to Clojure now?*
 
-Yeah, OK. But first, the Jesus story is, like any and all other religions, an example of how one group wants to dominate thought and limit choices.
+In a moment. But first, the Jesus story is, like any and all other religions, an example of how one group wants to dominate thought and limit choices.
 
-And, clunking down into computing, we crash straight into how this is the same for programming languages. The inventors and proponents are not as usually also the theistic zealots (is Larry Wall the only exception?).
+And, clunking down into computing, we crash straight into how this is the same for programming languages. The inventors and proponents are not as usually also the theistic zealots (is Larry Wall the only exception?). But in a small way, in our small space they want to dominate and define choices. And Rich Hickey's hair says the rest.
 
-But in a small way, in our small space they want to dominate and define choices. And Rich Hickey's hair says the rest.
+So the question naturally arises - who are the Romans in this case? In the story of Jesus the drama centered around Pontius Pilate, the Roman administrator who, however reluctantly, ordered his death.
 
-So the question naturally arises - who are the Romans in this case?
-
-In the story of Jesus the drama centered around Pontius Pilate, the Roman administrator who, however reluctantly, ordered his death.
-
-Lest we forget, he was goaded by jewish leaders who did not like Jesus' claim to the king of the jews. Pilate himself famously washed his hands of the crucifixion and blamed the jewish leaders and the crowd.
+But lest we forget, he was goaded by jewish leaders who did not like Jesus' claim to the king of the jews. Pilate himself famously washed his hands of the crucifixion and blamed the jewish leaders as well as the crowd.
 
 Almost every technology decision goes along similar lines. Management typically take decisions reluctantly and they are usually forced by events and powerful interest groups. In fairness I have rarely seen a full-blooded crucifixion.
 
-*But really, you're boring the shit out of me .... what does this have to do with Clojure?*
+*But all this religious crap .... what does this have to do with Clojure?*
 
 Easy baby, we are coming to that. Languages are the seat of power in IT. There's a lot of crap floating around about platforms, frameworks and services. These all matter but languages matter more.
 
-Languages determine what's easy and probable in a language.  We can, thanks to a persecuted, gay genius, do anything in a Turing-complete language.
+Languages determine what's both easy and probable in a language.  We can, thanks to a persecuted, gay genius, do anything in a Turing-complete language. And it's ridiculous stroke funny how much people trot out that old nonsense.  Yeah, we could do that in assembler, COBOL, C, blah... It doesn't matter what you _could_ do ... _would_ you? And would any sane person - even you - want to maintain it?
 
-And it's ridiculous stroke funny how much people trot out that old nonsense.  Yeah, we could do that in assembler, COBOL, C, blah... It doesn't matter what you could do ... would you? And would any sane person be able to maintain it?
+And so to the point: Clojure. Magic. Persecution.
 
-But I'm getting off the point: Clojure. Magic. Persecution.
+When Rich Hickey said he could store more than 5 thousand loaves and or fishes in persistent collections with a constant Big O cost it seemed like a miracle. In fairness, he revealed that it was due to the wonders of structural sharing. And unlike the Higgs, most folks won't have to take that on faith.
 
-When Rich Hickey said he could store more than 5 thousand loaves and or fishes in persistent collections with a constant Big O cost it seemed like a miracle. In fairness, he revealed that it was due to the wonders of structural sharing. Unlike the Higgs, most folks won't have to take that on faith.
-
-Lisps in general seems magical.  When people see that "(* 1 2 3 4)" equals 24 it's a bit of a shock to the system.
+In fairness, Lisps in general seems magical.  When I first saw that "(* 1 2 3 4)" equals 24 it was a bit of a shock to the system.
 
 What the hell is going on here? The idea of using data as code is the first shock. The first element of any list is the function and the rest are its fodder.
 
 (println "World" (print "Hello ")) is a fun (ahem) example showing how nested function calls works. Yes it's a mindfuck but it results in a lot of power once you swallow the red pill.
 
-But these magical aspects and strangeness bring envy and fear from non-believers. But the disciples are strong - the Conj sold out quick style.
+But this magical and strangeness bring both envy and fear from non-believers. And the disciples are strong - the Conj sold out quick style.
 
 *OK, so now back to those Romans - are they the operators?*
 
 No - those guys don't care about languages. And they have way too much work to be bothered by that - in fact they are totally overloaded. Ahem.
 
-But I'm gonna spoil it now and say that Clojure won't be killed like Jesus. In fact the idea that there will be just one language is as crazy as there being one flower.
+But I'm gonna spoil it now and say that Clojure won't be killed like Jesus. In fact the idea that there will be just one language is as crazy as there being just one flower.
 
-So, why do we do this? Why do we think that there must be a next big COBOL / C / Java thing?
-
-Just like religion, it's mostly born out of fear. One of the paradoxical attractions of God is the "certainty" of his existence *and his love* comforts his followers.
+So, why do we do this? Why do we think that there must be a next big COBOL / C / Java thing? Just like religion, it's mostly born out of fear. One of the paradoxical attractions of God is the "certainty" of his existence *and his love* comforts his followers.
 
 Likewise the certainty of some 'winner' plays well in large companies where they need to maintain programmes for 10 years or more. And it's very likely that Java will be here in 10 years. It's stewardship by Oracle gives succour to many CIOs.
+
+So just like all religions * we have:
+
+priests - enterprise standards groups
+
+bishops - local user group organisers
+
+archbishops - national user group organisers
+
+saints - language book authors
+
+angels - conference speakers
+
+original and best disciples - core lib developers
+
+God(s) - language inventor(s)
+
+* This is Christianity but the others are all organized in the same pyramid of power. Buddhism is non-theistic so therefore not count as a religion for these purposes.  It is the equivalent of design patterns.
+
+*So this is really a rant about religions?*
+
+No way , it's just that religions can be seen in any form of power, control and authority.
+
+The thing that keeps the masses in line is some belief that there will be a punishment for transgressing the laws. But sometimes the masses cannot be kept down, sometimes they will rise up.
+
+Take the protestants and the catholics. On the surface it doesn't seem like a big difference but if how you worship determines how you get into heaven the stakes are high for the individual. And if you get all your cash from ensuring that they worship through your organisation, the whole edifice is at risk and the stakes are higher still.
+
+Ironically, although protestants believe that the way to heaven is through direct communication with God, they now have more churches and bureaucracy than the Catholics. Plus ca change.
+
+Anyone in any of the above roles for a worshipping organisation is always watching out for threats to their belief system. The amount of rubbish given out by Java developers about node.js is embarrassing.
+
+So I'm all for inter-religious understanding, even off the JVM.
+
+
+
+
+
+
 
 
 
