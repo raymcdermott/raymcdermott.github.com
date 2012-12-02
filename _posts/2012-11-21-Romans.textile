@@ -87,7 +87,7 @@ Ironically, although protestants believe that the way to heaven is through direc
 
 Anyone in any of the above roles for a worshipping organisation is always watching out for threats to their belief system. The amount of rubbish given out by Java developers about node.js is embarrassing.
 
-So I'm all for inter-religious understanding, even off the JVM.
+So I'm all for inter-religious understanding.  Hell, even off the JVM.
 
 
 
