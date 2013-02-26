@@ -9,4 +9,4 @@ p(meta). 26 Feb 2013 - Thought Space
 
 I have made a rough sketch of what I consider to be the forces that threaten the dominance that Microsoft currently enjoys
 
-![Microsoft](../blob/master/public_html/Microsoft.jpg?raw=true)
+![Microsoft](../blob/master/_posts/Microsoft.jpg?raw=true)
