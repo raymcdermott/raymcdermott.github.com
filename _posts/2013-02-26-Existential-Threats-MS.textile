@@ -1,0 +1,12 @@
+---
+layout: post
+title: Is Microsoft Screwed?
+---
+
+h1. {{ page.title }}
+
+p(meta). 26 Feb 2013 - Thought Space
+
+I have made a rough sketch of what I consider to be the forces that threaten the dominance that Microsoft currently enjoys
+
+!>Microsoft.gif!
