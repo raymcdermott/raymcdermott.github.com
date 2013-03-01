@@ -10,3 +10,11 @@ p(meta). 26 Feb 2013 - Thought Space
 I have made a rough sketch of what I consider to be the forces that threaten the dominance that Microsoft currently enjoys
 
 !https://dl.dropbox.com/u/16303131/images/MicrosoftImage.jpg!
+
+It's quite busy image so I will provide some commentary!
+
+Top half... *Overserving* is the state where the product is more than good enough for the job that it was hired to do.
+A competitive or disruptive product does not need to match all of its qualities to be considered good enough.
+
+Bottom half... *Underserving* this is the state where the products do not match the job to be done. If they are close enough and they are developed this could change to be good enough.
+If it is a disruptive product, that puts the incumbents under threat.
